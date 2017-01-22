@@ -1,0 +1,31 @@
+{
+  "name": "angular-component-generator",
+  "version": "1.0.0",
+  "description": "gulp angular component generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanerzhao/angular-component-generator.git"
+  },
+  "keywords": [
+    "angular",
+    "component",
+    "generator"
+  ],
+  "author": "alanertzhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanerzhao/angular-component-generator/issues"
+  },
+  "homepage": "https://github.com/alanerzhao/angular-component-generator#readme",
+  "dependencies": {
+    "camelcase": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-template": "^4.0.0",
+    "yargs": "^6.6.0"
+  }
+}
