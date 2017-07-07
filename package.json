@@ -26,6 +26,6 @@
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
     "gulp-template": "^4.0.0",
-    "yargs": "^6.6.0"
+    "yargs": "^8.0.2"
   }
 }
